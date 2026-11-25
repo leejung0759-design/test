@@ -1,0 +1,348 @@
+{
+ "total": 269,
+ "total_views": 68599779,
+ "src": {
+  "YouTube": 152,
+  "TikTok": 84,
+  "Instagram": 33
+ },
+ "cats": [
+  {
+   "cat": "레시피·홈베이킹",
+   "n": 43,
+   "views": 22172932,
+   "share": 32.3,
+   "avg": 515650,
+   "tt_n": 15,
+   "like_rate": 12.22,
+   "save_rate": 0.45,
+   "share_rate": 0.05
+  },
+  {
+   "cat": "식감·정보",
+   "n": 35,
+   "views": 17335721,
+   "share": 25.3,
+   "avg": 495306,
+   "tt_n": 14,
+   "like_rate": 4.29,
+   "save_rate": 1.1,
+   "share_rate": 0.9
+  },
+  {
+   "cat": "먹방·ASMR",
+   "n": 19,
+   "views": 10065514,
+   "share": 14.7,
+   "avg": 529764,
+   "tt_n": 15,
+   "like_rate": 5.62,
+   "save_rate": 0.6,
+   "share_rate": 0.37
+  },
+  {
+   "cat": "선물·답례품·포장",
+   "n": 83,
+   "views": 7652112,
+   "share": 11.2,
+   "avg": 92194,
+   "tt_n": 29,
+   "like_rate": 4.65,
+   "save_rate": 0.51,
+   "share_rate": 0.29
+  },
+  {
+   "cat": "사장·창업 브이로그",
+   "n": 13,
+   "views": 4540941,
+   "share": 6.6,
+   "avg": 349303,
+   "tt_n": 1,
+   "like_rate": 6.0,
+   "save_rate": 0.55,
+   "share_rate": 0.07
+  },
+  {
+   "cat": "기타",
+   "n": 27,
+   "views": 3186759,
+   "share": 4.6,
+   "avg": 118028,
+   "tt_n": 4,
+   "like_rate": 7.58,
+   "save_rate": 0.58,
+   "share_rate": 0.57
+  },
+  {
+   "cat": "맛집·매장 탐방",
+   "n": 46,
+   "views": 3148654,
+   "share": 4.6,
+   "avg": 68449,
+   "tt_n": 4,
+   "like_rate": 3.95,
+   "save_rate": 0.37,
+   "share_rate": 0.06
+  },
+  {
+   "cat": "브랜드 신제품·한정",
+   "n": 3,
+   "views": 497146,
+   "share": 0.7,
+   "avg": 165715,
+   "tt_n": 2,
+   "like_rate": 5.55,
+   "save_rate": 0.92,
+   "share_rate": 0.31
+  }
+ ],
+ "kw": [
+  {
+   "kw": "레시피",
+   "n": 46,
+   "views": 13550305
+  },
+  {
+   "kw": "솔티카라멜/소금",
+   "n": 22,
+   "views": 9503841
+  },
+  {
+   "kw": "초코",
+   "n": 31,
+   "views": 6243084
+  },
+  {
+   "kw": "버터/태운버터",
+   "n": 32,
+   "views": 6019429
+  },
+  {
+   "kw": "겉바속촉/바삭/빠작",
+   "n": 22,
+   "views": 5824726
+  },
+  {
+   "kw": "선물/답례",
+   "n": 72,
+   "views": 5710801
+  },
+  {
+   "kw": "한 반죽 여러 맛",
+   "n": 21,
+   "views": 5685431
+  },
+  {
+   "kw": "다이소/쉬운",
+   "n": 10,
+   "views": 5229622
+  },
+  {
+   "kw": "쫀득/촉촉/묵직",
+   "n": 25,
+   "views": 5215963
+  },
+  {
+   "kw": "무화과/크림치즈",
+   "n": 4,
+   "views": 3553286
+  },
+  {
+   "kw": "얼그레이·말차·흑임자",
+   "n": 12,
+   "views": 2028727
+  },
+  {
+   "kw": "맛집/오픈런",
+   "n": 40,
+   "views": 1681301
+  },
+  {
+   "kw": "두바이/두쫀",
+   "n": 8,
+   "views": 1579900
+  }
+ ],
+ "top": [
+  {
+   "src": "TikTok",
+   "title": "첫 휘낭시에(°▽°) #휘낭시에 #많이_만들예정#홈베이킹#추천#fyp",
+   "views": 4638153,
+   "likes": 832625,
+   "shares": 820,
+   "saves": 15158,
+   "comments": 2051,
+   "date": "2020-11-07",
+   "query": null,
+   "cat": "레시피·홈베이킹"
+  },
+  {
+   "src": "TikTok",
+   "title": "하다하다 휘낭시에까지 만들어주는 남자친구🥹🩷 #asmrmukbang #먹방 #dessert #디저트 #eatingshow ",
+   "views": 3565937,
+   "likes": 138520,
+   "shares": 5331,
+   "saves": 14424,
+   "comments": 1001,
+   "date": "2025-09-09",
+   "query": null,
+   "cat": "먹방·ASMR"
+  },
+  {
+   "src": "YouTube",
+   "title": "Making a financier with a Daiso 1,000 won mold #Baking",
+   "views": 3100000,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": null,
+   "query": null,
+   "cat": "레시피·홈베이킹"
+  },
+  {
+   "src": "YouTube",
+   "title": "베이킹하는 사람들이 나가서 마들렌 안사먹는 이유???",
+   "views": 3000000,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": null,
+   "query": null,
+   "cat": "식감·정보"
+  },
+  {
+   "src": "YouTube",
+   "title": "앞으로 휘낭시에는 이 레시피로 정착합니다,, 5가지맛 휘낭시에💗(기본,무화과크림치즈,코코넛,솔티카라멜,츄러스)financier",
+   "views": 2751774,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": "5 years ago",
+   "query": null,
+   "cat": "레시피·홈베이킹"
+  },
+  {
+   "src": "YouTube",
+   "title": "The reason I was shocked after eating at Whinangsi",
+   "views": 2600000,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": null,
+   "query": null,
+   "cat": "식감·정보"
+  },
+  {
+   "src": "YouTube",
+   "title": "먹고 싶어도 못 만드는 휘낭시에",
+   "views": 2300000,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": null,
+   "query": null,
+   "cat": "식감·정보"
+  },
+  {
+   "src": "YouTube",
+   "title": "대량 생산의 날୧(๑•̀⌄•́๑)૭ 구움과자 500개 만들기와 감성 카페 브이로그|내복곰",
+   "views": 1936468,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": "4 years ago",
+   "query": null,
+   "cat": "사장·창업 브이로그"
+  },
+  {
+   "src": "TikTok",
+   "title": "소금빵이랑 휘낭시에 #먹방  #소금빵 #휘낭시에 #디저트 #saltbutterroll ",
+   "views": 1629537,
+   "likes": 180251,
+   "shares": 16535,
+   "saves": 21381,
+   "comments": 771,
+   "date": "2026-05-02",
+   "query": null,
+   "cat": "먹방·ASMR"
+  },
+  {
+   "src": "YouTube",
+   "title": "완전 맛있는 기본  '휘낭시에(피낭시에)' 만들기 : Financier recipe｜siZning",
+   "views": 1566638,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": "6 years ago",
+   "query": null,
+   "cat": "레시피·홈베이킹"
+  },
+  {
+   "src": "TikTok",
+   "title": "쿠키영상🍪 내가 만든 쿠키~..너를 위해 구웠지~.. #mukbang #asmr #fyp #sound #sounds",
+   "views": 1331787,
+   "likes": 23117,
+   "shares": 2910,
+   "saves": 2649,
+   "comments": 901,
+   "date": "2026-10-03",
+   "query": null,
+   "cat": "먹방·ASMR"
+  },
+  {
+   "src": "YouTube",
+   "title": "다이소 천원짜리 틀로 휘낭시에 만들기 #다이소신상 #다이소추천템",
+   "views": 1300000,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": null,
+   "query": null,
+   "cat": "레시피·홈베이킹"
+  },
+  {
+   "src": "TikTok",
+   "title": "친구/애인에게 정성 가득 담긴 선물 해주기 좋은  ❤️ #다이소 재료로 #특별한선물 만드는 법 ❤️    @나 이거 만들어주면 안대,,,?@@기대한다^^",
+   "views": 1144873,
+   "likes": 21109,
+   "shares": 921,
+   "saves": 7005,
+   "comments": 141,
+   "date": "2022-10-12",
+   "query": null,
+   "cat": "선물·답례품·포장"
+  },
+  {
+   "src": "YouTube",
+   "title": "Maldon salt on financiers?",
+   "views": 1100000,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": null,
+   "query": null,
+   "cat": "식감·정보"
+  },
+  {
+   "src": "YouTube",
+   "title": "[Eng Sub] 맛있는 기본 휘낭시에 만들기 Financier recipe｜자도르",
+   "views": 1051690,
+   "likes": null,
+   "shares": null,
+   "saves": null,
+   "comments": null,
+   "date": "7 years ago",
+   "query": null,
+   "cat": "레시피·홈베이킹"
+  }
+ ]
+}
