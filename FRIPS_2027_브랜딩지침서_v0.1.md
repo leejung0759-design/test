@@ -87,6 +87,9 @@
     - 1 클래식: Mist Blue #A9C1D9 60 / Deep Navy #1F2A44 10 / Ivory #F7F4EE 25 / Butter Gold #D9C08A 5
     - **2 휘낭시에 웜 (추천)**: Sky Blue #B7CCDE 55 / Butter Cream #F3E6C8 25 / Baked Brown #6B4A33 10 / Ink Navy #24304A 10
     - 3 가든: Mist Blue #A9C1D9 50 / Sage #C8D8C4 30 / Pistachio #C3D9A8 10 / Charcoal #2B2B2B 10
+    - **4 클래식 웜 (현재 추천, 2026-11-25 대표님 피드백 반영)**: 1안 블루 + 2안 구성 + 빈티지 금속 — Mist Blue #A9C1D9 / Aged Ivory #F1E7D3 / Walnut #5C3F2C / Ink Navy #1F2A44 / Brass #B08D57. 시안 `assets/FRIPS_2027_option4_classic_warm.png`
+      - 공간 비율 제안: 아이보리 50(벽·천장) / 블루 25(웨인스코팅·선물 벽·문) / 월넛 15(카운터·선반·의자) / 네이비 5(사인·메뉴) / 브라스 5(조명·레일·손잡이)
+      - 대비: 월넛/블루 약 5.1:1, 네이비/블루 약 7.7:1 (글자 가능) · 브라스/블루 약 1.7:1 (글자 금지, 금속 장식만)
   - 대비: 남색 글자/하늘색 바탕 약 7.7:1 (충분) · 흰 글자/하늘색 바탕 약 1.9:1 (부족 — 사용 금지)
   - 리스크: 레퍼런스(하늘색 바탕 + 남색 로고)는 해당 브랜드의 대표 배색이라, 1안 그대로 쓰면 비슷해 보일 수 있음 → 2안처럼 버터·구운색으로 차별화 권장
 - 4-2. 폰트: 국문 / 영문 (Montserrat 유지 여부 확인)
